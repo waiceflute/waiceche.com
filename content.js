@@ -125,7 +125,7 @@ window.WAICE_SITE_CONTENT = {
       id: "music",
       status: "public",
       title: "Music & Education",
-      intro: "This page is dedicated to Waice's own music training, personal achievements, teaching philosophy and performance background. Student achievements are intentionally kept separate.",
+      intro: "Flute and Harp Education by Macau Music Conservatory",
       sections: [
         {
           title: "Flute & Harp Studies",
@@ -357,7 +357,7 @@ window.WAICE_SITE_CONTENT = {
       "From Music Training to Teaching": "從音樂訓練到教學",
       "What Music Has Given Me": "音樂帶給我的意義",
       "Founder Journey": "創辦人旅程",
-      "This page is dedicated to Waice's own music training, personal achievements, teaching philosophy and performance background. Student achievements are intentionally kept separate.": "此頁專注於 Waice 本人的音樂訓練、個人成就、教學理念及演奏背景。學生成就會獨立呈現，避免混淆。",
+      "Flute and Harp Education by Macau Music Conservatory": "澳門音樂學院長笛與豎琴教育",
       "Flute & Harp Studies": "長笛與豎琴學習",
       "Personal Macau Youth Music Achievements": "澳門青年音樂個人成就",
       "24 Years in Music Education": "24 年音樂教育",
@@ -438,7 +438,7 @@ window.WAICE_SITE_CONTENT = {
       "From Music Training to Teaching": "从音乐训练到教学",
       "What Music Has Given Me": "音乐带给我的意义",
       "Founder Journey": "创办人旅程",
-      "This page is dedicated to Waice's own music training, personal achievements, teaching philosophy and performance background. Student achievements are intentionally kept separate.": "此页专注于 Waice 本人的音乐训练、个人成就、教学理念及演奏背景。学生成就会独立呈现，避免混淆。",
+      "Flute and Harp Education by Macau Music Conservatory": "澳门音乐学院长笛与竖琴教育",
       "Flute & Harp Studies": "长笛与竖琴学习",
       "Personal Macau Youth Music Achievements": "澳门青年音乐个人成就",
       "24 Years in Music Education": "24 年音乐教育",
