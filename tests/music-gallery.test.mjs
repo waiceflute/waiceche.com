@@ -17,6 +17,11 @@ const teachingPhilosophy = content.pages.music.sections.find((section) => sectio
 const competitionHighlights = content.pages.students.sections.find((section) => section.title === "Competition Highlights");
 const miaIeongSubtitle = "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)";
 
+assert.equal(content.images.musicFunLogo.caption, "Music Fun 100");
+assert.ok(fs.existsSync(path.join(projectDir, content.images.musicFunLogo.src.replace("./", ""))));
+assert.match(appSource, /class="cta-logo"/);
+assert.match(appSource, /musicFunLogo/);
+
 assert.equal(gallery.title, "Music Performance Photos");
 assert.equal(gallery.items.length, 3);
 assert.equal(content.pages.home.highlights[1].label, studentRegions);

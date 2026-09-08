@@ -17,6 +17,14 @@ window.WAICE_SITE_CONTENT = {
       focalPoint: "face center",
       status: "public",
     },
+    musicFunLogo: {
+      src: "./assets/brand/music-fun-logo.png",
+      alt: "Music Fun 100 logo",
+      caption: "Music Fun 100",
+      ratio: "1:1",
+      focalPoint: "center",
+      status: "public",
+    },
     mozartConcertMacauCulturalCentre: {
       src: "./assets/music/concert-night-of-mozart-macau-cultural-centre.jpg",
       alt: "Waice Che performing flute with piano accompaniment at Macau Cultural Centre",

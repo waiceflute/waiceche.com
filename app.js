@@ -92,8 +92,15 @@ function renderImageGallery(gallery) {
 }
 
 function ctaBand() {
+  const logo = content.images.musicFunLogo;
+
   return `
     <section class="cta-band">
+      ${
+        logo?.src
+          ? `<img class="cta-logo" src="${logo.src}" alt="${t(logo.alt || logo.caption)}">`
+          : ""
+      }
       <div>
         <h2>${t("Music education should move beyond geography.")}</h2>
         <p>${t("Connect with Music Fun 100 as a teacher, student, parent or partner.")}</p>
