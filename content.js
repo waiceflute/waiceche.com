@@ -41,6 +41,14 @@ window.WAICE_SITE_CONTENT = {
       focalPoint: "faces center",
       status: "public",
     },
+    teachingPhilosophyStudents: {
+      src: "./assets/music/teaching-philosophy-students.jpg",
+      alt: "Waice Che smiling with young flute students",
+      caption: "Teaching Philosophy",
+      ratio: "16:9",
+      focalPoint: "faces center",
+      status: "public",
+    },
   },
   navigation: [
     { id: "home", label: "Home", status: "public" },
@@ -145,6 +153,7 @@ window.WAICE_SITE_CONTENT = {
         {
           title: "Teaching Philosophy",
           body: "Music education is not only about lessons. It is about helping students express emotion, build discipline, develop confidence, make friends and carry music into their lives with joy.",
+          imageKey: "teachingPhilosophyStudents",
           status: "public",
         },
         {
