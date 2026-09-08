@@ -14,6 +14,8 @@ const content = sandbox.window.WAICE_SITE_CONTENT;
 const gallery = content.pages.music.gallery;
 const studentRegions = "Students from Canada, United States, Australia, New Zealand, Thailand, Singapore, Italy, UK, Japan, China, Hong Kong, Macau, and more.";
 const teachingPhilosophy = content.pages.music.sections.find((section) => section.title === "Teaching Philosophy");
+const competitionHighlights = content.pages.students.sections.find((section) => section.title === "Competition Highlights");
+const miaIeongSubtitle = "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)";
 
 assert.equal(gallery.title, "Music Performance Photos");
 assert.equal(gallery.items.length, 3);
@@ -23,6 +25,10 @@ assert.equal(content.translations.zhHans[studentRegions], "学生来自加拿大
 assert.equal(teachingPhilosophy.imageKey, "teachingPhilosophyStudents");
 assert.equal(content.images.teachingPhilosophyStudents.caption, "Teaching Philosophy");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.teachingPhilosophyStudents.src.replace("./", ""))));
+assert.equal(competitionHighlights.body, miaIeongSubtitle);
+assert.equal(competitionHighlights.imageKey, "miaIeongLisztSecondPrize2026");
+assert.equal(content.images.miaIeongLisztSecondPrize2026.caption, miaIeongSubtitle);
+assert.ok(fs.existsSync(path.join(projectDir, content.images.miaIeongLisztSecondPrize2026.src.replace("./", ""))));
 
 const expected = [
   ["mozartConcertMacauCulturalCentre", "Concert of the Night of Mozart at Macau Cultural Centre"],

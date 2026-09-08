@@ -49,6 +49,14 @@ window.WAICE_SITE_CONTENT = {
       focalPoint: "faces center",
       status: "public",
     },
+    miaIeongLisztSecondPrize2026: {
+      src: "./assets/students/mia-ieong-liszt-second-prize-2026.jpg",
+      alt: "Mia Ieong Second Prize announcement for the IX International Liszt Ferenc Final Round Competition 2026",
+      caption: "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)",
+      ratio: "16:9",
+      focalPoint: "center",
+      status: "public",
+    },
   },
   navigation: [
     { id: "home", label: "Home", status: "public" },
@@ -180,7 +188,8 @@ window.WAICE_SITE_CONTENT = {
       sections: [
         {
           title: "Competition Highlights",
-          body: "Add selected student competition results here. Keep the list concise and source-backed where possible.",
+          body: "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)",
+          imageKey: "miaIeongLisztSecondPrize2026",
           status: "public",
         },
         {
@@ -379,6 +388,7 @@ window.WAICE_SITE_CONTENT = {
       "Master Class of Trevor Wye": "Trevor Wye 大師班",
       "Waice previously served as Vice President of the Macau Youth Music Promotion Association and as an adjudicator for selected Macau music competitions. Exact official names and event details can be refined when source material is supplied.": "Waice 曾擔任澳門青年音樂推廣協會副會長，並曾為部分澳門音樂比賽擔任評委。正式英文名稱及活動資料可在來源提供後再精準修訂。",
       "Student achievements are presented separately from Waice's personal awards, keeping the portfolio clear, credible and respectful.": "學生成就會與 Waice 的個人獎項分開呈現，讓網站更清晰、可信，也更尊重學生。",
+      "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)": "楊淇菁 Mia Ieong 於 2026 年第九屆李斯特匈牙利國際公開賽決賽（匈牙利埃格爾）榮獲第二名",
       "Leadership & Entrepreneurship": "領導與創業",
       "This page presents Waice's business, public image and civic leadership experience as supporting evidence for her founder journey.": "此頁展示 Waice 的商業、公眾形象及社會領導經驗，作為她創辦人故事的支持證據。",
       "Public Image & Modeling": "公眾形象與模特經歷",
@@ -460,6 +470,7 @@ window.WAICE_SITE_CONTENT = {
       "Master Class of Trevor Wye": "Trevor Wye 大师班",
       "Waice previously served as Vice President of the Macau Youth Music Promotion Association and as an adjudicator for selected Macau music competitions. Exact official names and event details can be refined when source material is supplied.": "Waice 曾担任澳门青年音乐推广协会副会长，并曾为部分澳门音乐比赛担任评委。正式英文名称及活动资料可在来源提供后再精准修订。",
       "Student achievements are presented separately from Waice's personal awards, keeping the portfolio clear, credible and respectful.": "学生成就会与 Waice 的个人奖项分开呈现，让网站更清晰、可信，也更尊重学生。",
+      "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)": "杨淇菁 Mia Ieong 于 2026 年第九届李斯特匈牙利国际公开赛决赛（匈牙利埃格尔）荣获第二名",
       "Leadership & Entrepreneurship": "领导与创业",
       "This page presents Waice's business, public image and civic leadership experience as supporting evidence for her founder journey.": "此页展示 Waice 的商业、公众形象及社会领导经验，作为她创办人故事的支持证据。",
       "Public Image & Modeling": "公众形象与模特经历",
