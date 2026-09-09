@@ -13,9 +13,10 @@ function t(text) {
 
 function setActiveLanguage() {
   document.documentElement.lang =
-    currentLang === "zhHant" ? "zh-Hant" : currentLang === "zhHans" ? "zh-Hans" : "en";
+    currentLang === "zhHant" ? "zh-Hant" : currentLang === "zhHans" ? "zh-Hans" : currentLang === "es" ? "es" : "en";
   langButtons.forEach((button) => {
     button.classList.toggle("active", button.dataset.lang === currentLang);
+    button.setAttribute("aria-pressed", String(button.dataset.lang === currentLang));
   });
   document.querySelectorAll("[data-i18n]").forEach((element) => {
     element.textContent = t(element.dataset.i18n);
@@ -296,7 +297,7 @@ function renderInvestor(page) {
 
 function renderPage(pageId) {
   const page = content.pages[pageId] || content.pages.home;
-  document.title = page.seo?.title || `${page.title || "Waice Che"} | WaiceChe.com`;
+  document.title = page.seo?.title ? t(page.seo.title) : `${t(page.title || "Waice Che")} | WaiceChe.com`;
   setActiveLanguage();
   renderNav();
   setActiveNav(page.id);
@@ -314,6 +315,7 @@ function renderPage(pageId) {
   window.scrollTo({ top: 0, behavior: "smooth" });
   document.body.classList.remove("nav-open");
   menuButton.setAttribute("aria-expanded", "false");
+  menuButton.setAttribute("aria-label", t("Open menu"));
 }
 
 function currentRoute() {
@@ -327,7 +329,7 @@ window.addEventListener("hashchange", () => renderPage(currentRoute()));
 menuButton.addEventListener("click", () => {
   const open = document.body.classList.toggle("nav-open");
   menuButton.setAttribute("aria-expanded", String(open));
-  menuButton.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+  menuButton.setAttribute("aria-label", t(open ? "Close menu" : "Open menu"));
 });
 
 langButtons.forEach((button) => {

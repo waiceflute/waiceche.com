@@ -99,6 +99,17 @@ svg {
   border-bottom: 2px solid transparent;
 }
 
+html[lang="es"] .site-nav {
+  flex-wrap: wrap;
+  row-gap: 0;
+}
+
+html[lang="es"] h1,
+html[lang="es"] h2 {
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+
 .site-nav a.active {
   color: var(--ink);
   border-color: var(--wine);
@@ -806,6 +817,10 @@ textarea {
 }
 
 @media (max-width: 560px) {
+  html[lang="es"] h1 {
+    font-size: 32px;
+  }
+
   .brand {
     min-width: 0;
   }
