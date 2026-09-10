@@ -80,7 +80,7 @@ function renderImageGallery(gallery) {
   if (!gallery?.items?.length) return "";
 
   return `
-    <section class="photo-gallery">
+    <section class="photo-gallery ${gallery.className || ""}">
       <div class="gallery-header">
         <h2>${t(gallery.title)}</h2>
         <p>${t(gallery.intro)}</p>

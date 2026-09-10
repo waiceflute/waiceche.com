@@ -364,6 +364,7 @@ window.WAICE_SITE_CONTENT = {
         {
           title: "Clean Energy & Technology Forum Experience",
           intro: "Waice Che represented her family business at the 5th International Forum on Clean Energy, presenting new air-conditioning technology for carbon reduction and emissions reduction, and connected with national and industry leaders.",
+          className: "clean-energy-gallery",
           items: ["cleanEnergyForumFamilyBusiness", "cleanEnergyForumIndustryDelegates"],
         },
       ],

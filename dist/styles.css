@@ -610,6 +610,16 @@ blockquote {
   padding-top: 24px;
 }
 
+.photo-gallery.clean-energy-gallery .gallery-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.photo-gallery.clean-energy-gallery .image-card img {
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+
 .group-grid,
 .media-wall,
 .contact-grid {
