@@ -208,7 +208,7 @@ function renderLeadership(page) {
         .join("")}
     </section>
     <section class="split-section reverse">
-      ${imageCard("seatedFounderPortrait", "Public image / entrepreneurship archive", "4:5")}
+      ${imageCard("missUniverseMacauViceChair", "Public image / entrepreneurship archive", "3:4")}
       <div>
         <h2>${t("Supporting the Founder Story")}</h2>
         <p>${t("These experiences should support Waice's credibility as a founder without distracting from Music Fun 100. Glamour Model Agency and modeling achievements remain secondary evidence, not the core positioning.")}</p>
