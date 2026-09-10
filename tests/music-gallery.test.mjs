@@ -46,6 +46,9 @@ const fluteTeaching = content.pages.music.sections.find((section) => section.tit
 assert.equal(fluteTeaching.items.length, 7);
 assert.equal(fluteTeaching.items[0].period, "2004–2005");
 assert.equal(fluteTeaching.items[6].period, "2011–2013");
+const youthMusicAchievements = content.pages.music.sections.find((section) => section.title === "Personal Macau Youth Music Achievements");
+assert.equal(youthMusicAchievements.items.length, 8);
+assert.equal(youthMusicAchievements.items[6].period, "2006 (24th)");
 assert.equal(content.pages.students.sections[1].title, "Student Individual Honour");
 assert.equal(content.pages.students.sections[1].imageKey, "lisztMacauFluteFirstPrize");
 assert.match(content.pages.students.sections[1].body, /Mia Ieong won First Prize in flute/);
