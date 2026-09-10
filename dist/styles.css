@@ -416,6 +416,11 @@ blockquote {
   aspect-ratio: 4 / 5;
 }
 
+.image-card.ratio-2-3 img {
+  aspect-ratio: 2 / 3;
+  object-position: center;
+}
+
 .image-card figcaption {
   padding: 12px 14px;
   color: var(--muted);
