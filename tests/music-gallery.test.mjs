@@ -43,6 +43,7 @@ assert.ok(content.pages.leadership.groups[0].items.includes("Music video lead ac
 assert.match(content.pages.leadership.galleries[0].intro, /She also won Third Prize/);
 assert.equal(content.pages.students.sections[1].title, "Student Individual Honour");
 assert.equal(content.pages.students.sections[1].imageKey, "lisztMacauFluteFirstPrize");
+assert.match(content.pages.students.sections[1].body, /Mia Ieong won First Prize in flute/);
 assert.ok(fs.existsSync(path.join(projectDir, content.images.lisztMacauFluteFirstPrize.src.replace("./", ""))));
 
 const expected = [
