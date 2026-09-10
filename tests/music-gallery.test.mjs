@@ -36,6 +36,9 @@ assert.equal(content.images.miaIeongLisztSecondPrize2026.caption, miaIeongSubtit
 assert.ok(fs.existsSync(path.join(projectDir, content.images.miaIeongLisztSecondPrize2026.src.replace("./", ""))));
 assert.equal(content.images.cleanEnergyForumFamilyBusiness.ratio, "2:3");
 assert.equal(content.images.cleanEnergyForumIndustryDelegates.ratio, "3:2");
+assert.equal(content.images.macauFashionWeekCatwalkShow.caption, "Macau Fashion Week Catwalk Show");
+assert.ok(fs.existsSync(path.join(projectDir, content.images.macauFashionWeekCatwalkShow.src.replace("./", ""))));
+assert.ok(content.pages.leadership.galleries.some((gallery) => gallery.items.includes("macauFashionWeekCatwalkShow")));
 
 const expected = [
   ["mozartConcertMacauCulturalCentre", "Concert of the Night of Mozart at Macau Cultural Centre"],
