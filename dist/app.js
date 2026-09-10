@@ -173,6 +173,13 @@ function renderStandardPage(page) {
               <div>
                 <h2>${t(section.title)}</h2>
                 <p>${t(section.body)}</p>
+                ${
+                  section.items
+                    ? `<div class="experience-list">${section.items
+                        .map((item) => `<div class="experience-item"><strong>${item.period}</strong><p>${t(item.role)}</p></div>`)
+                        .join("")}</div>`
+                    : ""
+                }
               </div>
               ${imageCard(section.imageKey, section.imageRole || section.title, index % 2 ? "16:9" : "4:5")}
             </article>

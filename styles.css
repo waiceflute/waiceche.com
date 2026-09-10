@@ -519,6 +519,30 @@ blockquote {
   border-top: 1px solid var(--line);
 }
 
+.experience-list {
+  display: grid;
+  gap: 0;
+  margin-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+.experience-item {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 18px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.experience-item strong {
+  color: var(--wine);
+  font-size: 15px;
+}
+
+.experience-item p {
+  margin: 0;
+}
+
 .row-number {
   color: var(--gold);
   font-weight: 800;
@@ -844,5 +868,10 @@ textarea {
 
   .hero-actions {
     display: grid;
+  }
+
+  .experience-item {
+    grid-template-columns: 1fr;
+    gap: 4px;
   }
 }
