@@ -42,6 +42,10 @@ assert.ok(fs.existsSync(path.join(projectDir, content.images.macauFashionWeekCat
 assert.ok(content.pages.leadership.galleries.some((gallery) => gallery.items.includes("macauFashionWeekCatwalkShow")));
 assert.ok(content.pages.leadership.groups[0].items.includes("Music video lead actress"));
 assert.match(content.pages.leadership.galleries[0].intro, /She also won Third Prize/);
+const fluteTeaching = content.pages.music.sections.find((section) => section.title === "Flute Teaching Experience");
+assert.equal(fluteTeaching.items.length, 7);
+assert.equal(fluteTeaching.items[0].period, "2004–2005");
+assert.equal(fluteTeaching.items[6].period, "2011–2013");
 assert.equal(content.pages.students.sections[1].title, "Student Individual Honour");
 assert.equal(content.pages.students.sections[1].imageKey, "lisztMacauFluteFirstPrize");
 assert.match(content.pages.students.sections[1].body, /Mia Ieong won First Prize in flute/);
