@@ -34,6 +34,8 @@ assert.equal(competitionHighlights.body, miaIeongSubtitle);
 assert.equal(competitionHighlights.imageKey, "miaIeongLisztSecondPrize2026");
 assert.equal(content.images.miaIeongLisztSecondPrize2026.caption, miaIeongSubtitle);
 assert.ok(fs.existsSync(path.join(projectDir, content.images.miaIeongLisztSecondPrize2026.src.replace("./", ""))));
+assert.equal(content.images.cleanEnergyForumFamilyBusiness.ratio, "2:3");
+assert.equal(content.images.cleanEnergyForumIndustryDelegates.ratio, "3:2");
 
 const expected = [
   ["mozartConcertMacauCulturalCentre", "Concert of the Night of Mozart at Macau Cultural Centre"],

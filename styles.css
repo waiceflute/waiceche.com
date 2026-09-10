@@ -605,6 +605,7 @@ blockquote {
 .gallery-grid {
   display: grid;
   grid-template-columns: 1.2fr 0.9fr 0.9fr;
+  align-items: start;
   gap: 18px;
   padding-top: 24px;
 }
