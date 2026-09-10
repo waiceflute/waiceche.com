@@ -216,6 +216,7 @@ function renderLeadership(page) {
       </div>
     </section>
     ${renderImageGallery(page.gallery)}
+    ${(page.galleries || []).map((gallery) => renderImageGallery(gallery)).join("")}
   `;
 }
 
