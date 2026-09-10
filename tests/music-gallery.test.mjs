@@ -50,3 +50,6 @@ for (const [imageKey, caption] of expected) {
 
 assert.match(appSource, /function renderImageGallery/);
 assert.match(appSource, /page\.gallery/);
+const sectionHeaderBody = appSource.match(/function sectionHeader\(title, intro\) \{([\s\S]*?)\n\}/)?.[1] || "";
+assert.doesNotMatch(sectionHeaderBody, /page\.gallery/);
+assert.match(appSource, /window\.addEventListener\("hashchange", \(\) => renderPage\(currentRoute\(\)\)\)/);

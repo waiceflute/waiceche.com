@@ -73,7 +73,6 @@ function sectionHeader(title, intro) {
       <h1>${title}</h1>
       <p>${intro}</p>
     </section>
-    ${renderImageGallery(page.gallery)}
   `;
 }
 
