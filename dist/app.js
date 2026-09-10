@@ -73,6 +73,7 @@ function sectionHeader(title, intro) {
       <h1>${title}</h1>
       <p>${intro}</p>
     </section>
+    ${renderImageGallery(page.gallery)}
   `;
 }
 
@@ -214,6 +215,7 @@ function renderLeadership(page) {
         <p>${t("These experiences should support Waice's credibility as a founder without distracting from Music Fun 100. Glamour Model Agency and modeling achievements remain secondary evidence, not the core positioning.")}</p>
       </div>
     </section>
+    ${renderImageGallery(page.gallery)}
   `;
 }
 
@@ -233,6 +235,7 @@ function renderMedia(page) {
         )
         .join("")}
     </section>
+    ${renderImageGallery(page.gallery)}
     <section class="timeline">
       <h2>${t("Press Timeline")}</h2>
       <p>${t("Future media items can be added as public, draft, needs-source or archived records.")}</p>
