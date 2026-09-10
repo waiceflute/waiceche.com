@@ -344,7 +344,7 @@ window.WAICE_SITE_CONTENT = {
       galleries: [
         {
           title: "Macau Fashion Week Catwalk Show",
-          intro: "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling. She also placed third in the Macau Modeling Competition.",
+          intro: "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling. She also won Third Prize in the Macau Modeling Competition.",
           items: ["macauFashionWeekCatwalkShow"],
         },
         {
@@ -549,7 +549,7 @@ window.WAICE_SITE_CONTENT = {
       "Award-winning model / Third Place, Macau Modeling Competition": "Modelo premiada / Tercer puesto en el Concurso de Modelaje de Macao",
       "Macau Fashion Week Catwalk Show": "Desfile de Macau Fashion Week",
       "Waice Che walking in a Macau Fashion Week catwalk show": "Waice Che desfilando en un show de Macau Fashion Week",
-      "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling. She also placed third in the Macau Modeling Competition.": "Waice Che es una modelo con amplia trayectoria en Macao, con experiencia en publicidad gubernamental, publicidad de taxis y hoteles, pasarelas, hair shows, promociones de automovilismo, modelaje de automóviles y fotografía. También obtuvo el tercer puesto en el Concurso de Modelaje de Macao.",
+      "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling. She also won Third Prize in the Macau Modeling Competition.": "Waice Che es una modelo con amplia trayectoria en Macao, con experiencia en publicidad gubernamental, publicidad de taxis y hoteles, pasarelas, hair shows, promociones de automovilismo, modelaje de automóviles y fotografía. También ganó el tercer premio en el Concurso de Modelaje de Macao.",
       "Entrepreneurial Experience": "Experiencia emprendedora",
       "Founder, Glamour Model Agency": "Fundadora de Glamour Model Agency",
       "Business and environmental technology background": "Experiencia en negocios y tecnología ambiental",
@@ -721,7 +721,7 @@ window.WAICE_SITE_CONTENT = {
       "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling.": "Waice Che 是澳門資深模特兒，曾參與政府廣告、的士廣告、酒店廣告、時裝秀、髮型秀、賽車女郎、車模及攝影模特等工作。",
       "Macau Fashion Week Catwalk Show": "Macau Fashion Week 時裝秀",
       "Waice Che walking in a Macau Fashion Week catwalk show": "Waice Che 於 Macau Fashion Week 時裝秀行Catwalk",
-      "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling. She also placed third in the Macau Modeling Competition.": "Waice Che 是澳門資深模特兒，曾參與政府廣告、的士廣告、酒店廣告、時裝秀、髮型秀、賽車女郎、車模及攝影模特等工作，並曾獲澳門模特兒選秀比賽第三名。",
+      "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling. She also won Third Prize in the Macau Modeling Competition.": "Waice Che 是澳門資深模特兒，曾參與政府廣告、的士廣告、酒店廣告、時裝秀、髮型秀、賽車女郎、車模及攝影模特等工作，並曾獲澳門模特兒選秀比賽第三名。",
       "Entrepreneurial Experience": "創業經驗",
       "Civic & International Exchange": "社會事務與國際交流",
       "Vice Chairman of the 1st Miss Universe Macau Region Contest": "第一屆環球小姐澳門賽區副主席",
@@ -839,7 +839,7 @@ window.WAICE_SITE_CONTENT = {
       "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling.": "Waice Che 是澳门资深模特儿，曾参与政府广告、的士广告、酒店广告、时装秀、发型秀、赛车女郎、车模及摄影模特等工作。",
       "Macau Fashion Week Catwalk Show": "Macau Fashion Week 时装秀",
       "Waice Che walking in a Macau Fashion Week catwalk show": "Waice Che 于 Macau Fashion Week 时装秀走秀",
-      "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling. She also placed third in the Macau Modeling Competition.": "Waice Che 是澳门资深模特儿，曾参与政府广告、的士广告、酒店广告、时装秀、发型秀、赛车女郎、车模及摄影模特等工作，并曾获澳门模特儿选秀比赛第三名。",
+      "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling. She also won Third Prize in the Macau Modeling Competition.": "Waice Che 是澳门资深模特儿，曾参与政府广告、的士广告、酒店广告、时装秀、发型秀、赛车女郎、车模及摄影模特等工作，并曾获澳门模特儿选秀比赛第三名。",
       "Entrepreneurial Experience": "创业经验",
       "Civic & International Exchange": "社会事务与国际交流",
       "Vice Chairman of the 1st Miss Universe Macau Region Contest": "第一届环球小姐澳门赛区副主席",

@@ -40,6 +40,7 @@ assert.equal(content.images.macauFashionWeekCatwalkShow.caption, "Macau Fashion 
 assert.ok(fs.existsSync(path.join(projectDir, content.images.macauFashionWeekCatwalkShow.src.replace("./", ""))));
 assert.ok(content.pages.leadership.galleries.some((gallery) => gallery.items.includes("macauFashionWeekCatwalkShow")));
 assert.ok(content.pages.leadership.groups[0].items.includes("Music video lead actress"));
+assert.match(content.pages.leadership.galleries[0].intro, /She also won Third Prize/);
 
 const expected = [
   ["mozartConcertMacauCulturalCentre", "Concert of the Night of Mozart at Macau Cultural Centre"],
