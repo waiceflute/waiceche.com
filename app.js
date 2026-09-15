@@ -11,6 +11,17 @@ function t(text) {
   return content.translations?.[currentLang]?.[text] || text;
 }
 
+function bodyText(text) {
+  const body = t(text)
+    .replace(/(geography\.|geográfica\.|地域限制。)\s*/g, "$1\n\n")
+    .replace(/(Music Fun 100\.|每一位老師。|每一位老师。)\s*/g, "$1\n\n");
+
+  return body
+    .split(/\n\s*\n/)
+    .map((paragraph) => `<p>${paragraph}</p>`)
+    .join("");
+}
+
 function setActiveLanguage() {
   document.documentElement.lang =
     currentLang === "zhHant" ? "zh-Hant" : currentLang === "zhHans" ? "zh-Hans" : currentLang === "es" ? "es" : "en";
@@ -147,7 +158,7 @@ function renderHome(page) {
     <section class="split-section">
       <div>
         <h2>${t(page.sections[0].title)}</h2>
-        <p>${t(page.sections[0].body)}</p>
+        <div class="body-copy">${bodyText(page.sections[0].body)}</div>
       </div>
       ${imageCard("seatedFounderPortrait", "Founder portrait / teaching moment", "4:5")}
     </section>
