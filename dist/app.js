@@ -183,7 +183,7 @@ function renderStandardPage(page) {
               <div class="row-number">0${index + 1}</div>
               <div>
                 <h2>${t(section.title)}</h2>
-                <p>${t(section.body)}</p>
+                ${section.body ? bodyText(section.body) : ""}
                 ${
                   section.items
                     ? `<div class="experience-list">${section.items

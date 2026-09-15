@@ -18,7 +18,6 @@ const aboutIntro = "WAICE is a Macau-born musician, educator, entrepreneur and s
 const studentRegions = "Students from Canada, United States, Australia, New Zealand, Thailand, Singapore, Italy, UK, Japan, China, Hong Kong, Macau, and more.";
 const teachingPhilosophy = content.pages.music.sections.find((section) => section.title === "Teaching Philosophy");
 const competitionHighlights = content.pages.students.sections.find((section) => section.title === "Competition Highlights");
-const miaIeongSubtitle = "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)";
 
 assert.equal(content.images.musicFunLogo.caption, "Music Fun 100");
 assert.equal(content.pages.about.intro, aboutIntro);
@@ -50,7 +49,8 @@ assert.equal(fluteTeaching.imageKey, "fluteTeachingStudentsMacauCulturalCentre")
 assert.equal(content.images.fluteTeachingStudentsMacauCulturalCentre.caption, "Performance with My Students at Macau Cultural Centre");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.fluteTeachingStudentsMacauCulturalCentre.src.replace("./", ""))));
 assert.ok(!gallery.items.includes("fluteTeachingStudentsMacauCulturalCentre"));
-assert.equal(competitionHighlights.body, miaIeongSubtitle);
+assert.equal(competitionHighlights.items.length, 10);
+assert.equal(competitionHighlights.items[0].role, "First Prize at the 2025 Paris Music Competition.");
 assert.equal(competitionHighlights.imageKey, "miaIeongLisztSecondPrize2026");
 assert.equal(content.images.miaIeongLisztSecondPrize2026.caption, miaIeongSubtitle);
 assert.ok(fs.existsSync(path.join(projectDir, content.images.miaIeongLisztSecondPrize2026.src.replace("./", ""))));
