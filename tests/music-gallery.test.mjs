@@ -81,7 +81,7 @@ assert.equal(musicPromotion.imageKey, "macauMusiciansConcertSpecialPerformance")
 assert.equal(content.images.macauMusiciansConcertSpecialPerformance.caption, "Macau Youth Music Promotion Association Presents: Macau Musicians Concert");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.macauMusiciansConcertSpecialPerformance.src.replace("./", ""))));
 assert.equal(fluteHarpStudies.imageKey, "waiceHarpTeacherLiLiQun");
-assert.equal(content.images.waiceHarpTeacherLiLiQun.caption, "WAICE with her respected harp teacher Li Li Qun (National First-Class Artist) at the Macau Conservatory of Music Small Auditorium");
+assert.equal(content.images.waiceHarpTeacherLiLiQun.caption, "WAICE with her respected harp teacher Li Li Qun (China National First-Class Artist) at the Macau Conservatory of Music Auditorium");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.waiceHarpTeacherLiLiQun.src.replace("./", ""))));
 assert.equal(youthMusicAchievements.items.length, 8);
 assert.equal(youthMusicAchievements.items[6].period, "2006 (24th)");
