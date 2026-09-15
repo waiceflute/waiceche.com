@@ -427,7 +427,7 @@ window.WAICE_SITE_CONTENT = {
       id: "leadership",
       status: "public",
       title: "Leadership & Entrepreneurship",
-      intro: "This page presents Waice's business, public image and civic leadership experience as supporting evidence for her founder journey.",
+      intro: "",
       groups: [
         {
           title: "Public Image & Modeling",
@@ -705,7 +705,6 @@ window.WAICE_SITE_CONTENT = {
       "Share short stories of students who gained confidence, musical growth, international exposure or meaningful opportunities through learning.": "Compartir breves historias de estudiantes que, a través del aprendizaje, ganaron confianza, crecieron musicalmente, adquirieron experiencia internacional o encontraron oportunidades significativas.",
       "Global Online Learning Results": "Resultados del aprendizaje en línea en todo el mundo",
       "During four years of online teaching, Waice's students from different parts of the world achieved strong results, supporting her belief that online music education can be effective and meaningful.": "Durante cuatro años de enseñanza en línea, los estudiantes de Waice de distintas partes del mundo obtuvieron excelentes resultados, reforzando su convicción de que la educación musical en línea puede ser eficaz y significativa.",
-      "This page presents Waice's business, public image and civic leadership experience as supporting evidence for her founder journey.": "Esta página presenta la experiencia empresarial, de imagen pública y de liderazgo cívico de Waice como parte de su trayectoria como fundadora.",
       "Public Image & Modeling": "Imagen pública y modelaje",
       "Senior Macau model": "Modelo con amplia trayectoria en Macao",
       "Music video lead actress": "Actriz protagonista de videoclips musicales",
@@ -926,7 +925,6 @@ window.WAICE_SITE_CONTENT = {
       "Mia Ieong receiving First Prize in flute at the Macau Preliminary Round of the IX Liszt Ferenc International Competition": "Mia Ieong 於第九屆李斯特布達佩斯國際公開賽澳門賽區獲得長笛第一名",
       "Mia Ieong - Student Individual Honour: First Prize in Flute, Macau Preliminary Round of the IX Liszt Ferenc International Competition": "Mia Ieong - 學生個人榮耀：第九屆李斯特布達佩斯國際公開賽澳門賽區長笛第一名",
       "Leadership & Entrepreneurship": "領導與創業",
-      "This page presents Waice's business, public image and civic leadership experience as supporting evidence for her founder journey.": "此頁展示 Waice 的商業、公眾形象及社會領導經驗，作為她創辦人故事的支持證據。",
       "Public Image & Modeling": "公眾形象與模特經歷",
       "Music video lead actress": "音樂影片女主角",
       "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling.": "Waice Che 是澳門資深模特兒，曾參與政府廣告、的士廣告、酒店廣告、時裝秀、髮型秀、賽車女郎、車模及攝影模特等工作。",
@@ -1092,7 +1090,6 @@ window.WAICE_SITE_CONTENT = {
       "Mia Ieong receiving First Prize in flute at the Macau Preliminary Round of the IX Liszt Ferenc International Competition": "Mia Ieong 于第九届李斯特布达佩斯国际公开赛澳门赛区获得长笛第一名",
       "Mia Ieong - Student Individual Honour: First Prize in Flute, Macau Preliminary Round of the IX Liszt Ferenc International Competition": "Mia Ieong - 学生个人荣誉：第九届李斯特布达佩斯国际公开赛澳门赛区长笛第一名",
       "Leadership & Entrepreneurship": "领导与创业",
-      "This page presents Waice's business, public image and civic leadership experience as supporting evidence for her founder journey.": "此页展示 Waice 的商业、公众形象及社会领导经验，作为她创办人故事的支持证据。",
       "Public Image & Modeling": "公众形象与模特经历",
       "Music video lead actress": "音乐视频女主角",
       "Waice Che is a senior Macau model with experience in government advertising, taxi advertising, hotel advertising, catwalk shows, hair shows, racing-girl and car-model assignments, and photography modeling.": "Waice Che 是澳门资深模特儿，曾参与政府广告、的士广告、酒店广告、时装秀、发型秀、赛车女郎、车模及摄影模特等工作。",

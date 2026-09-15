@@ -82,7 +82,7 @@ function sectionHeader(title, intro) {
   return `
     <section class="page-hero">
       <h1>${title}</h1>
-      <p>${intro}</p>
+      ${intro ? `<p>${intro}</p>` : ""}
     </section>
   `;
 }
