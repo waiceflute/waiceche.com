@@ -307,7 +307,6 @@ window.WAICE_SITE_CONTENT = {
         {
           title: "Flute Teaching Experience",
           body: "Selected flute teaching experience in Macao schools and youth music programs.",
-          imageKey: "fluteTeachingStudentsMacauCulturalCentre",
           items: [
             { period: "2004–2005", role: "Flute teacher at Escola Oficial de Seac Pai Van / Kang Pang School, Macao." },
             { period: "2011–2013", role: "Flute teacher at Kao Yip Middle School, Macao." },
@@ -354,6 +353,7 @@ window.WAICE_SITE_CONTENT = {
           "mozartConcertMacauCulturalCentre",
           "paulEdmundDaviesMasterClass",
           "trevorWyeMasterClass",
+          "fluteTeachingStudentsMacauCulturalCentre",
         ],
       },
     },
