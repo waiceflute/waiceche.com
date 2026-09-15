@@ -240,7 +240,7 @@ function renderMedia(page) {
             <article class="media-card ${item.status}">
               <span>${t(item.type)}</span>
               <h2>${t(item.title)}</h2>
-              <p>${t(item.source)}</p>
+              ${item.source ? `<p>${t(item.source)}</p>` : ""}
             </article>
           `,
         )

@@ -509,7 +509,6 @@ window.WAICE_SITE_CONTENT = {
         },
         {
           title: "Costa Rica University Interview",
-          source: "Source to be added",
           type: "Interview",
           status: "needs-source",
         },
@@ -766,7 +765,6 @@ window.WAICE_SITE_CONTENT = {
       "Source supplied / link or scan to be added": "Fuente proporcionada / pendiente de añadir enlace o documento escaneado",
       "Interview": "Entrevista",
       "Costa Rica University Interview": "Entrevista en una universidad de Costa Rica",
-      "Source to be added": "Fuente pendiente de añadir",
       "Press Timeline": "Cronología de prensa",
       "Future media items can be added as public, draft, needs-source or archived records.": "Se podrán añadir futuras publicaciones como registros públicos, borradores, pendientes de fuente o archivados.",
       "Music Fun 100 was created from Waice's belief that music has no borders, and that music education should not be limited by geography.": "Music Fun 100 nació de la convicción de Waice de que la música no tiene fronteras y de que la educación musical no debe estar limitada por la geografía.",
