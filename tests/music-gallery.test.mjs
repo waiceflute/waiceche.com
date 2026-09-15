@@ -12,12 +12,15 @@ vm.runInNewContext(contentSource, sandbox);
 
 const content = sandbox.window.WAICE_SITE_CONTENT;
 const gallery = content.pages.music.gallery;
+const aboutIntro = "WAICE is a Macau-born musician, educator, entrepreneur and senior model. She has taught at several renowned primary and secondary schools in Macao and has served as a guest etiquette instructor at a university.";
 const studentRegions = "Students from Canada, United States, Australia, New Zealand, Thailand, Singapore, Italy, UK, Japan, China, Hong Kong, Macau, and more.";
 const teachingPhilosophy = content.pages.music.sections.find((section) => section.title === "Teaching Philosophy");
 const competitionHighlights = content.pages.students.sections.find((section) => section.title === "Competition Highlights");
 const miaIeongSubtitle = "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)";
 
 assert.equal(content.images.musicFunLogo.caption, "Music Fun 100");
+assert.equal(content.pages.about.intro, aboutIntro);
+assert.equal(content.translations.zhHant[aboutIntro], "WAICE 是出生於澳門的音樂人、教育家、企業家及資深模特兒。她曾任教於澳門多間知名中、小學，並曾擔任大學客席禮儀導師。");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.musicFunLogo.src.replace("./", ""))));
 assert.match(appSource, /class="cta-logo"/);
 assert.match(appSource, /musicFunLogo/);
