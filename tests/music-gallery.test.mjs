@@ -12,6 +12,7 @@ vm.runInNewContext(contentSource, sandbox);
 
 const content = sandbox.window.WAICE_SITE_CONTENT;
 const gallery = content.pages.music.gallery;
+assert.equal(content.pages.music.intro, "Flute and Harp Education at Macau Music Conservatory & National Music Institute of Costa Rica");
 const musicGalleryIntro = "During her youth, WAICE was active in Macao's music scene, regularly participating in competitions and performances. She performed as a flutist with several wind bands and orchestras, and remained actively involved in master classes and musical exchanges. She was often invited to perform at government events and for world-renowned brands such as Cartier, Tiffany & Co. and Bulgari. In recent years, she has actively performed with the Costa Rica National Flute Orchestra and was invited to perform with the orchestra at a flute convention in the United States.";
 const aboutIntro = "WAICE is a Macau-born musician, educator, entrepreneur and senior model. She has taught at several renowned primary and secondary schools in Macao and has served as a guest etiquette instructor at a university.";
 const studentRegions = "Students from Canada, United States, Australia, New Zealand, Thailand, Singapore, Italy, UK, Japan, China, Hong Kong, Macau, and more.";
