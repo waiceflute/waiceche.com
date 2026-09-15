@@ -38,6 +38,7 @@ assert.equal(content.images.teachingPhilosophyStudents.caption, "Teaching Philos
 assert.ok(fs.existsSync(path.join(projectDir, content.images.teachingPhilosophyStudents.src.replace("./", ""))));
 const fluteTeaching = content.pages.music.sections.find((section) => section.title === "Flute Teaching Experience");
 const musicPromotion = content.pages.music.sections.find((section) => section.title === "Music Promotion & Adjudication");
+const fluteHarpStudies = content.pages.music.sections.find((section) => section.title === "Flute & Harp Studies");
 assert.equal(fluteTeaching.imageKey, "fluteTeachingStudentsMacauCulturalCentre");
 assert.equal(content.images.fluteTeachingStudentsMacauCulturalCentre.caption, "Performance with My Students at Macau Cultural Centre");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.fluteTeachingStudentsMacauCulturalCentre.src.replace("./", ""))));
@@ -78,6 +79,9 @@ assert.ok(fs.existsSync(path.join(projectDir, content.images.macauYouthMusicComp
 assert.equal(musicPromotion.imageKey, "macauMusiciansConcertSpecialPerformance");
 assert.equal(content.images.macauMusiciansConcertSpecialPerformance.caption, "Macau Youth Music Promotion Association Presents: Macau Musicians Concert");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.macauMusiciansConcertSpecialPerformance.src.replace("./", ""))));
+assert.equal(fluteHarpStudies.imageKey, "waiceHarpTeacherLiLiQun");
+assert.equal(content.images.waiceHarpTeacherLiLiQun.caption, "WAICE with her respected harp teacher Li Li Qun (National First-Class Artist) at the Macau Conservatory of Music Small Auditorium");
+assert.ok(fs.existsSync(path.join(projectDir, content.images.waiceHarpTeacherLiLiQun.src.replace("./", ""))));
 assert.equal(youthMusicAchievements.items.length, 8);
 assert.equal(youthMusicAchievements.items[6].period, "2006 (24th)");
 assert.equal(content.pages.students.sections[1].title, "Student Individual Honour");
