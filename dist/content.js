@@ -679,7 +679,6 @@ window.WAICE_SITE_CONTENT = {
       "Waice Che representing her family business at the 5th International Forum on Clean Energy": "Waice Che representando a su empresa familiar en el V Foro Internacional sobre Energía Limpia",
       "Waice Che with a National Committee member of the Chinese People's Political Consultative Conference and industry leaders": "Waice Che con un miembro del Comité Nacional de la Conferencia Consultiva Política del Pueblo Chino y líderes del sector",
       "Former Vice President, Macau Youth Music Promotion Association": "Exvicepresidenta de la Asociación de Promoción de la Música Juvenil de Macao",
-      "Meituan and Ximalaya delegation / industry exchange visits": "Delegaciones de Meituan y Ximalaya / visitas de intercambio profesional",
       "Shanghai business exchange delegation with Meituan Waimai, Ximalaya and Bihu Group": "Delegación de intercambio empresarial en Shanghái con Meituan Waimai, Ximalaya y Bihu Group",
       "Shanghai Business Exchange Visit": "Visita de intercambio empresarial en Shanghái",
       "Waice Che joined the Macau Youth Elites Association delegation to Shanghai for exchanges with Meituan Waimai, Ximalaya and Bihu Group, as well as other well-known Chinese companies. The first photo shows her with the Vice President of Meituan Waimai.": "Waice Che acompañó a la delegación de la Asociación de Jóvenes Talentos de Macao a Shanghái para intercambiar con Meituan Waimai, Ximalaya, Bihu Group y otras empresas chinas reconocidas. En la primera foto aparece con el vicepresidente de Meituan Waimai.",
