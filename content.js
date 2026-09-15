@@ -363,7 +363,6 @@ window.WAICE_SITE_CONTENT = {
           "mozartConcertMacauCulturalCentre",
           "paulEdmundDaviesMasterClass",
           "trevorWyeMasterClass",
-          "fluteTeachingStudentsMacauCulturalCentre",
         ],
       },
     },

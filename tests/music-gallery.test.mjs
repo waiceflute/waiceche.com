@@ -29,7 +29,7 @@ assert.match(appSource, /musicFunLogo/);
 assert.equal(gallery.title, "Music Performance Photos");
 assert.equal(gallery.intro, musicGalleryIntro);
 assert.match(content.translations.zhHant[musicGalleryIntro], /青少年時期活躍於澳門樂壇/);
-assert.equal(gallery.items.length, 4);
+assert.equal(gallery.items.length, 3);
 assert.equal(content.pages.home.highlights[1].label, studentRegions);
 assert.equal(content.translations.zhHant[studentRegions], "學生來自加拿大、美國、澳洲、新西蘭、泰國、新加坡、意大利、英國、日本、中國、香港、澳門等地");
 assert.equal(content.translations.zhHans[studentRegions], "学生来自加拿大、美国、澳大利亚、新西兰、泰国、新加坡、意大利、英国、日本、中国、香港、澳门等地");
@@ -40,7 +40,7 @@ const fluteTeaching = content.pages.music.sections.find((section) => section.tit
 assert.equal(fluteTeaching.imageKey, "fluteTeachingStudentsMacauCulturalCentre");
 assert.equal(content.images.fluteTeachingStudentsMacauCulturalCentre.caption, "Performance with My Students at Macau Cultural Centre");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.fluteTeachingStudentsMacauCulturalCentre.src.replace("./", ""))));
-assert.ok(gallery.items.includes("fluteTeachingStudentsMacauCulturalCentre"));
+assert.ok(!gallery.items.includes("fluteTeachingStudentsMacauCulturalCentre"));
 assert.equal(competitionHighlights.body, miaIeongSubtitle);
 assert.equal(competitionHighlights.imageKey, "miaIeongLisztSecondPrize2026");
 assert.equal(content.images.miaIeongLisztSecondPrize2026.caption, miaIeongSubtitle);
