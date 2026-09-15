@@ -503,7 +503,6 @@ window.WAICE_SITE_CONTENT = {
         },
         {
           title: "Portuguese Magazine Interview",
-          source: "Source supplied / link or scan to be added",
           type: "Interview",
           status: "public",
         },
@@ -762,7 +761,6 @@ window.WAICE_SITE_CONTENT = {
       "Official school source/link to be added": "Pendiente de añadir la fuente o el enlace oficial de la institución",
       "Guest lecture": "Conferencia invitada",
       "Portuguese Magazine Interview": "Entrevista en una revista portuguesa",
-      "Source supplied / link or scan to be added": "Fuente proporcionada / pendiente de añadir enlace o documento escaneado",
       "Interview": "Entrevista",
       "Costa Rica University Interview": "Entrevista en una universidad de Costa Rica",
       "Press Timeline": "Cronología de prensa",
