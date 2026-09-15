@@ -367,7 +367,6 @@ window.WAICE_SITE_CONTENT = {
         },
         {
           title: "Orchestra Experience",
-          body: "Selected orchestra and symphonic band experience from Waice's music training and performance background.",
           imageKey: "orchestraExperienceCostaRica",
           items: [
             { period: "2023–2024", role: "Flutist and harpist of the Costa Rica National Youth Wind Band." },
@@ -722,7 +721,6 @@ window.WAICE_SITE_CONTENT = {
       "WAICE with her respected harp teacher Li Li Qun (China National First-Class Artist) at the Macau Conservatory of Music Auditorium": "WAICE con su respetada profesora de arpa Li Li Qun (artista nacional china de primera categoría) en el auditorio del Conservatorio de Música de Macao",
       "WAICE with her respected harp teacher Li Li Qun at the Macau Conservatory of Music Auditorium": "WAICE con su respetada profesora de arpa Li Li Qun en el auditorio del Conservatorio de Música de Macao",
       "Orchestra Experience": "Experiencia orquestal",
-      "Selected orchestra and symphonic band experience from Waice's music training and performance background.": "Una selección de la experiencia de Waice en orquestas y bandas sinfónicas durante su formación y trayectoria musical.",
       "Guest second flutist of the Macao Orchestra.": "Segunda flautista invitada de la Orquesta de Macao.",
       "Flutist and harpist of the Costa Rica National Youth Wind Band.": "Flautista y arpista de la Banda Sinfónica Juvenil Nacional de Costa Rica.",
       "Member of the Costa Rica National Flute Orchestra.": "Miembro de la Orquesta Nacional de Flautas de Costa Rica.",
@@ -988,7 +986,6 @@ window.WAICE_SITE_CONTENT = {
       "WAICE with her respected harp teacher Li Li Qun (China National First-Class Artist) at the Macau Conservatory of Music Auditorium": "WAICE 與她尊敬的豎琴老師李利群 LI LI QUN（中國國家一級藝術演員）於澳門音樂學院禮堂合影",
       "WAICE with her respected harp teacher Li Li Qun at the Macau Conservatory of Music Auditorium": "WAICE 與她尊敬的豎琴老師李利群於澳門音樂學院禮堂合影",
       "Orchestra Experience": "管弦樂團經歷",
-      "Selected orchestra and symphonic band experience from Waice's music training and performance background.": "Waice 音樂訓練及演出背景中的管弦樂團與交響樂團經歷節選。",
       "Guest second flutist of the Macao Orchestra.": "澳門樂團客席第二長笛手。",
       "Flutist and harpist of the Costa Rica National Youth Wind Band.": "哥斯達黎加國家青年管樂團長笛及豎琴手。",
       "Member of the Costa Rica National Flute Orchestra.": "哥斯達黎加國家長笛樂團成員。",
@@ -1194,7 +1191,6 @@ window.WAICE_SITE_CONTENT = {
       "WAICE with her respected harp teacher Li Li Qun (China National First-Class Artist) at the Macau Conservatory of Music Auditorium": "WAICE 与她尊敬的竖琴老师李利群 LI LI QUN（中国国家一级艺术演员）于澳门音乐学院礼堂合影",
       "WAICE with her respected harp teacher Li Li Qun at the Macau Conservatory of Music Auditorium": "WAICE 与她尊敬的竖琴老师李利群于澳门音乐学院礼堂合影",
       "Orchestra Experience": "管弦乐团经历",
-      "Selected orchestra and symphonic band experience from Waice's music training and performance background.": "Waice 音乐训练及演出背景中的管弦乐团与交响乐团经历节选。",
       "Guest second flutist of the Macao Orchestra.": "澳门乐团客席第二长笛手。",
       "Flutist and harpist of the Costa Rica National Youth Wind Band.": "哥斯达黎加国家青年管乐团长笛及竖琴手。",
       "Member of the Costa Rica National Flute Orchestra.": "哥斯达黎加国家长笛乐团成员。",
