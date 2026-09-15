@@ -37,6 +37,7 @@ assert.equal(teachingPhilosophy.imageKey, "teachingPhilosophyStudents");
 assert.equal(content.images.teachingPhilosophyStudents.caption, "Teaching Philosophy");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.teachingPhilosophyStudents.src.replace("./", ""))));
 const fluteTeaching = content.pages.music.sections.find((section) => section.title === "Flute Teaching Experience");
+assert.equal(fluteTeaching.imageKey, "fluteTeachingStudentsMacauCulturalCentre");
 assert.equal(content.images.fluteTeachingStudentsMacauCulturalCentre.caption, "Performance with My Students at Macau Cultural Centre");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.fluteTeachingStudentsMacauCulturalCentre.src.replace("./", ""))));
 assert.ok(gallery.items.includes("fluteTeachingStudentsMacauCulturalCentre"));
