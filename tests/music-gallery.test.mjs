@@ -43,6 +43,9 @@ const fluteHarpStudies = content.pages.music.sections.find((section) => section.
 assert.match(fluteHarpStudies.body, /Liu Chang/);
 assert.match(fluteHarpStudies.body, /Gabriel Goni/);
 assert.match(fluteHarpStudies.body, /Li Li Qun/);
+const musicEducationYears = content.pages.music.sections.find((section) => section.title === "24 Years in Music Education");
+assert.match(musicEducationYears.body, /WAICE began her teaching career as a teenager/);
+assert.match(musicEducationYears.body, /principal musicians/);
 assert.equal(fluteTeaching.imageKey, "fluteTeachingStudentsMacauCulturalCentre");
 assert.equal(content.images.fluteTeachingStudentsMacauCulturalCentre.caption, "Performance with My Students at Macau Cultural Centre");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.fluteTeachingStudentsMacauCulturalCentre.src.replace("./", ""))));

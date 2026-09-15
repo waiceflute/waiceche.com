@@ -327,7 +327,7 @@ window.WAICE_SITE_CONTENT = {
         },
         {
           title: "24 Years in Music Education",
-          body: "Waice's long-term work as a music educator is one of the central foundations of the founder story. This section should explain her teaching philosophy, method and the meaning of music in student growth.",
+          body: "WAICE began her teaching career as a teenager, starting as a flute teacher at Macau's Kang Pang Middle School and private music centres. She later became a flute teacher at several well-known primary and secondary schools in Macao, building extensive teaching experience. Her students have won awards in competitions in China and abroad, and some have gone on to serve as principal musicians in orchestras and bands.",
           status: "public",
         },
         {
@@ -646,7 +646,7 @@ window.WAICE_SITE_CONTENT = {
       "Third Prize, Concerto.": "Tercer premio, concierto.",
       "Champion, School Band.": "Primer premio, banda escolar.",
       "24 Years in Music Education": "24 años en la educación musical",
-      "Waice's long-term work as a music educator is one of the central foundations of the founder story. This section should explain her teaching philosophy, method and the meaning of music in student growth.": "La larga trayectoria de Waice como educadora musical es uno de los pilares de su historia como fundadora. Esta sección debe explicar su filosofía y método de enseñanza, así como el papel de la música en el desarrollo del estudiante.",
+      "WAICE began her teaching career as a teenager, starting as a flute teacher at Macau's Kang Pang Middle School and private music centres. She later became a flute teacher at several well-known primary and secondary schools in Macao, building extensive teaching experience. Her students have won awards in competitions in China and abroad, and some have gone on to serve as principal musicians in orchestras and bands.": "WAICE comenzó su carrera docente en la adolescencia, como profesora de flauta en la Escuela Secundaria Kang Pang de Macao y en centros privados de música. Más tarde fue profesora de flauta en varias escuelas primarias y secundarias reconocidas de Macao, acumulando una amplia experiencia docente. Sus estudiantes han obtenido premios en concursos nacionales e internacionales, y algunos han llegado a ser músicos principales de orquestas y bandas.",
       "Flute Teaching Experience": "Experiencia docente de flauta",
       "Selected flute teaching experience in Macao schools and youth music programs.": "Una selección de la experiencia docente de flauta de Waice en escuelas y programas musicales juveniles de Macao.",
       "Waice Che performing with her students at Macau Cultural Centre": "Waice Che actuando con sus estudiantes en el Centro Cultural de Macao",
@@ -871,6 +871,7 @@ window.WAICE_SITE_CONTENT = {
       "Third Prize, Concerto.": "協奏曲季軍。",
       "Champion, School Band.": "學校樂隊冠軍。",
       "24 Years in Music Education": "24 年音樂教育",
+      "WAICE began her teaching career as a teenager, starting as a flute teacher at Macau's Kang Pang Middle School and private music centres. She later became a flute teacher at several well-known primary and secondary schools in Macao, building extensive teaching experience. Her students have won awards in competitions in China and abroad, and some have gone on to serve as principal musicians in orchestras and bands.": "WAICE 從青少年時期便開始教學生涯，先從任教澳門鏡平中學及私人音樂中心的長笛老師開始，及後成為多間澳門知名中、小學的長笛老師，擁有豐富的教學經驗。她的學生均在國內外不同比賽中獲得獎項，部分學生更成為樂團首席。",
       "Flute Teaching Experience": "長笛教學經歷",
       "Selected flute teaching experience in Macao schools and youth music programs.": "Waice 在澳門學校及青年音樂項目的長笛教學經歷節選。",
       "Waice Che performing with her students at Macau Cultural Centre": "Waice Che 與學生於澳門文化中心演出",
@@ -1035,6 +1036,7 @@ window.WAICE_SITE_CONTENT = {
       "Third Prize, Concerto.": "协奏曲季军。",
       "Champion, School Band.": "学校乐队冠军。",
       "24 Years in Music Education": "24 年音乐教育",
+      "WAICE began her teaching career as a teenager, starting as a flute teacher at Macau's Kang Pang Middle School and private music centres. She later became a flute teacher at several well-known primary and secondary schools in Macao, building extensive teaching experience. Her students have won awards in competitions in China and abroad, and some have gone on to serve as principal musicians in orchestras and bands.": "WAICE 从青少年时期便开始教学生涯，先从任教澳门镜平中学及私人音乐中心的长笛老师开始，后来成为多间澳门知名中、小学的长笛老师，拥有丰富的教学经验。她的学生均在国内外不同比赛中获得奖项，部分学生更成为乐团首席。",
       "Flute Teaching Experience": "长笛教学经历",
       "Selected flute teaching experience in Macao schools and youth music programs.": "Waice 在澳门学校及青年音乐项目的长笛教学经历节选。",
       "Waice Che performing with her students at Macau Cultural Centre": "Waice Che 与学生于澳门文化中心演出",
