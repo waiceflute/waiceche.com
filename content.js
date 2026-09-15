@@ -1025,7 +1025,7 @@ window.WAICE_SITE_CONTENT = {
       "Founder Journey": "创办人旅程",
       "Flute and Harp Education at Macau Music Conservatory & National Music Institute of Costa Rica": "澳门音乐学院及哥斯达黎加国立音乐学院的长笛与竖琴教育",
       "Flute & Harp Studies": "长笛与竖琴学习",
-      "Waice studied flute with renowned Macao teacher Liu Chang; Dr. Angela Roland from the United States, a former flutist of the Macao Orchestra; and renowned flutist Gabriel Goni, principal flutist of the Costa Rica National Orchestra. She studied harp with Li Li Qun, a China National First-Class Artist, and Professor Guan Xian Yue, and also received guidance from LAUYEE YEUNG and JUDY HO.": "长笛师从澳门名师刘畅老师、来自美国的 Angela Roland 博士（澳门乐团前长笛手），以及知名长笛家 Gabriel Goni（哥斯达黎加国家乐团首席长笛手）。竖琴师从中国国家一级演员李丽群老师及 Guan Xian Yue 教授，并曾接受 LAUYEE YEUNG 及 JUDY HO 的指导。",
+      "Waice studied flute with renowned Macao teacher Liu Chang; Dr. Angela Roland from the United States, a former flutist of the Macao Orchestra; and renowned flutist Gabriel Goni, principal flutist of the Costa Rica National Orchestra. She studied harp with Li Li Qun, a China National First-Class Artist, and Professor Guan Xian Yue, and also received guidance from LAUYEE YEUNG and JUDY HO.": "长笛师从澳门名师刘畅老师、来自美国的 Angela Roland 博士（澳门乐团前长笛手）及知名长笛家 Gabriel Goni（哥斯达黎加国家乐团首席）竖琴师从李丽群老师（中国国家一级演员），管弦乐老师，并曾接受 LAUYEE YEUNG 及 JUDY HO 的指导。",
       "Personal Macau Youth Music Achievements": "澳门青年音乐个人成就",
       "Selected awards from the Macau Youth Music Competition during Waice's youth.": "Waice 青年时期澳门青年音乐比赛的奖项节选。",
       "Champion, Flute Quintet.": "长笛五重奏冠军。",
