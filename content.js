@@ -305,7 +305,7 @@ window.WAICE_SITE_CONTENT = {
       sections: [
         {
           title: "Flute & Harp Studies",
-          body: "Use official certificate wording for the Macau performing arts institution and course name. The language should be accurate, respectful and non-inflated.",
+          body: "Waice studied flute with renowned Macao teacher Liu Chang, Dr. Angela Roland from the United States, and Gabriel Goni, a former flutist of the Macao Orchestra and renowned flutist who is principal of the Costa Rica National Orchestra. She studied harp with Li Li Qun, a China National First-Class Artist, and received orchestral music guidance from LAUYEE YEUNG and JUDY HO.",
           imageKey: "waiceHarpTeacherLiLiQun",
           status: "public",
         },
@@ -635,7 +635,7 @@ window.WAICE_SITE_CONTENT = {
       "Founder portrait / teaching moment": "Retrato de la fundadora / momento de enseñanza",
       "Flute and Harp Education at Macau Music Conservatory & National Music Institute of Costa Rica": "Formación en flauta y arpa en el Conservatorio de Música de Macao y el Instituto Nacional de Música de Costa Rica",
       "Flute & Harp Studies": "Estudios de flauta y arpa",
-      "Use official certificate wording for the Macau performing arts institution and course name. The language should be accurate, respectful and non-inflated.": "Utilizar la denominación oficial del certificado para la institución de artes escénicas de Macao y el programa de estudios. La redacción debe ser precisa, respetuosa y sin exageraciones.",
+      "Waice studied flute with renowned Macao teacher Liu Chang, Dr. Angela Roland from the United States, and Gabriel Goni, a former flutist of the Macao Orchestra and renowned flutist who is principal of the Costa Rica National Orchestra. She studied harp with Li Li Qun, a China National First-Class Artist, and received orchestral music guidance from LAUYEE YEUNG and JUDY HO.": "Waice estudió flauta con la reconocida profesora de Macao Liu Chang, la Dra. Angela Roland de Estados Unidos y Gabriel Goni, antiguo flautista de la Orquesta de Macao y reconocido flautista que es principal de la Orquesta Nacional de Costa Rica. Estudió arpa con Li Li Qun, artista nacional china de primera categoría, y recibió orientación en música orquestal de LAUYEE YEUNG y JUDY HO.",
       "Personal Macau Youth Music Achievements": "Logros personales en concursos juveniles de música de Macao",
       "Selected awards from the Macau Youth Music Competition during Waice's youth.": "Una selección de premios de Waice en el Concurso de Música Juvenil de Macao durante su juventud.",
       "Champion, Flute Quintet.": "Primer premio, quinteto de flautas.",
@@ -860,6 +860,7 @@ window.WAICE_SITE_CONTENT = {
       "Founder Journey": "創辦人旅程",
       "Flute and Harp Education at Macau Music Conservatory & National Music Institute of Costa Rica": "澳門音樂學院及哥斯達黎加國立音樂學院的長笛與豎琴教育",
       "Flute & Harp Studies": "長笛與豎琴學習",
+      "Waice studied flute with renowned Macao teacher Liu Chang, Dr. Angela Roland from the United States, and Gabriel Goni, a former flutist of the Macao Orchestra and renowned flutist who is principal of the Costa Rica National Orchestra. She studied harp with Li Li Qun, a China National First-Class Artist, and received orchestral music guidance from LAUYEE YEUNG and JUDY HO.": "長笛師從澳門名師劉暢老師、美國 Angela Roland 博士，以及澳門樂團前長笛手、知名長笛家 Gabriel Goni；Gabriel Goni 現為哥斯達黎加國家樂團首席。豎琴師從中國國家一級演員李麗群老師，並曾接受管弦樂老師 LAUYEE YEUNG 及 JUDY HO 的指導。",
       "Personal Macau Youth Music Achievements": "澳門青年音樂個人成就",
       "Selected awards from the Macau Youth Music Competition during Waice's youth.": "Waice 青年時期澳門青年音樂比賽的獎項節選。",
       "Champion, Flute Quintet.": "長笛五重奏冠軍。",
@@ -1023,6 +1024,7 @@ window.WAICE_SITE_CONTENT = {
       "Founder Journey": "创办人旅程",
       "Flute and Harp Education at Macau Music Conservatory & National Music Institute of Costa Rica": "澳门音乐学院及哥斯达黎加国立音乐学院的长笛与竖琴教育",
       "Flute & Harp Studies": "长笛与竖琴学习",
+      "Waice studied flute with renowned Macao teacher Liu Chang, Dr. Angela Roland from the United States, and Gabriel Goni, a former flutist of the Macao Orchestra and renowned flutist who is principal of the Costa Rica National Orchestra. She studied harp with Li Li Qun, a China National First-Class Artist, and received orchestral music guidance from LAUYEE YEUNG and JUDY HO.": "长笛师从澳门名师刘畅老师、来自美国的 Angela Roland 博士，以及澳门乐团前长笛手、知名长笛家 Gabriel Goni；Gabriel Goni 现为哥斯达黎加国家乐团首席。竖琴师从中国国家一级演员李丽群老师，并曾接受管弦乐老师 LAUYEE YEUNG 及 JUDY HO 的指导。",
       "Personal Macau Youth Music Achievements": "澳门青年音乐个人成就",
       "Selected awards from the Macau Youth Music Competition during Waice's youth.": "Waice 青年时期澳门青年音乐比赛的奖项节选。",
       "Champion, Flute Quintet.": "长笛五重奏冠军。",

@@ -40,6 +40,9 @@ assert.ok(fs.existsSync(path.join(projectDir, content.images.teachingPhilosophyS
 const fluteTeaching = content.pages.music.sections.find((section) => section.title === "Flute Teaching Experience");
 const musicPromotion = content.pages.music.sections.find((section) => section.title === "Music Promotion & Adjudication");
 const fluteHarpStudies = content.pages.music.sections.find((section) => section.title === "Flute & Harp Studies");
+assert.match(fluteHarpStudies.body, /Liu Chang/);
+assert.match(fluteHarpStudies.body, /Gabriel Goni/);
+assert.match(fluteHarpStudies.body, /Li Li Qun/);
 assert.equal(fluteTeaching.imageKey, "fluteTeachingStudentsMacauCulturalCentre");
 assert.equal(content.images.fluteTeachingStudentsMacauCulturalCentre.caption, "Performance with My Students at Macau Cultural Centre");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.fluteTeachingStudentsMacauCulturalCentre.src.replace("./", ""))));
