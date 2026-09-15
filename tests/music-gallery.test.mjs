@@ -12,6 +12,7 @@ vm.runInNewContext(contentSource, sandbox);
 
 const content = sandbox.window.WAICE_SITE_CONTENT;
 const gallery = content.pages.music.gallery;
+const musicGalleryIntro = "During her youth, WAICE was active in Macao's music scene, regularly participating in competitions and performances. She performed as a flutist with several wind bands and orchestras, and remained actively involved in master classes and musical exchanges. She was often invited to perform at government events and for world-renowned brands such as Cartier, Tiffany & Co. and Bulgari. In recent years, she has actively performed with the Costa Rica National Flute Orchestra and was invited to perform with the orchestra at a flute convention in the United States.";
 const aboutIntro = "WAICE is a Macau-born musician, educator, entrepreneur and senior model. She has taught at several renowned primary and secondary schools in Macao and has served as a guest etiquette instructor at a university.";
 const studentRegions = "Students from Canada, United States, Australia, New Zealand, Thailand, Singapore, Italy, UK, Japan, China, Hong Kong, Macau, and more.";
 const teachingPhilosophy = content.pages.music.sections.find((section) => section.title === "Teaching Philosophy");
@@ -26,6 +27,8 @@ assert.match(appSource, /class="cta-logo"/);
 assert.match(appSource, /musicFunLogo/);
 
 assert.equal(gallery.title, "Music Performance Photos");
+assert.equal(gallery.intro, musicGalleryIntro);
+assert.match(content.translations.zhHant[musicGalleryIntro], /青少年時期活躍於澳門樂壇/);
 assert.equal(gallery.items.length, 3);
 assert.equal(content.pages.home.highlights[1].label, studentRegions);
 assert.equal(content.translations.zhHant[studentRegions], "學生來自加拿大、美國、澳洲、新西蘭、泰國、新加坡、意大利、英國、日本、中國、香港、澳門等地");
