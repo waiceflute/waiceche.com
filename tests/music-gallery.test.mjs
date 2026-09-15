@@ -33,6 +33,10 @@ assert.equal(content.translations.zhHans[studentRegions], "学生来自加拿大
 assert.equal(teachingPhilosophy.imageKey, "teachingPhilosophyStudents");
 assert.equal(content.images.teachingPhilosophyStudents.caption, "Teaching Philosophy");
 assert.ok(fs.existsSync(path.join(projectDir, content.images.teachingPhilosophyStudents.src.replace("./", ""))));
+const fluteTeaching = content.pages.music.sections.find((section) => section.title === "Flute Teaching Experience");
+assert.equal(fluteTeaching.imageKey, "fluteTeachingStudentsMacauCulturalCentre");
+assert.equal(content.images.fluteTeachingStudentsMacauCulturalCentre.caption, "Performance with My Students at Macau Cultural Centre");
+assert.ok(fs.existsSync(path.join(projectDir, content.images.fluteTeachingStudentsMacauCulturalCentre.src.replace("./", ""))));
 assert.equal(competitionHighlights.body, miaIeongSubtitle);
 assert.equal(competitionHighlights.imageKey, "miaIeongLisztSecondPrize2026");
 assert.equal(content.images.miaIeongLisztSecondPrize2026.caption, miaIeongSubtitle);
@@ -59,7 +63,6 @@ for (const imageKey of ["singingMusicCompetitionJudgingPanel", "singingMusicComp
   assert.equal(content.images[imageKey].status, "public");
   assert.ok(fs.existsSync(path.join(projectDir, content.images[imageKey].src.replace("./", ""))));
 }
-const fluteTeaching = content.pages.music.sections.find((section) => section.title === "Flute Teaching Experience");
 assert.equal(fluteTeaching.items.length, 7);
 assert.equal(fluteTeaching.items[0].period, "2004–2005");
 assert.equal(fluteTeaching.items[6].period, "2011–2013");
