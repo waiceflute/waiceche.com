@@ -273,6 +273,14 @@ window.WAICE_SITE_CONTENT = {
       focalPoint: "center",
       status: "public",
     },
+    miaAndAngieMacauYouthSymphonyOrchestra: {
+      src: "./assets/students/mia-and-angie-macau-youth-symphony-orchestra.jpg",
+      alt: "Mia and Angie playing flute in the Macau Youth Symphony Orchestra",
+      caption: "Mia and Angie were playing in the Macau Youth Symphony Orchestra",
+      ratio: "3:2",
+      focalPoint: "center",
+      status: "public",
+    },
   },
   navigation: [
     { id: "home", label: "Home", status: "public" },
@@ -474,7 +482,7 @@ window.WAICE_SITE_CONTENT = {
         {
           title: "Student Stories",
           body: "Angie and Mia are both my online students. They became good friends through music. I love connecting my students and helping them support each other on their musical journeys.\n\nThey participated in flute solo competitions and performed as a duet together. As their teacher, seeing them build a friendship and make music happily is the greatest blessing!",
-          imageKeys: ["angieAndMiaMacauYouthMusicCompetition", "miaAndAngieViennaYoungMusicians2025"],
+          imageKeys: ["angieAndMiaMacauYouthMusicCompetition", "miaAndAngieViennaYoungMusicians2025", "miaAndAngieMacauYouthSymphonyOrchestra"],
           status: "public",
         },
         {
@@ -815,6 +823,7 @@ window.WAICE_SITE_CONTENT = {
       "Flute student Ni Chenhan won the Gold Prize and achieved the highest score in the category at the Zhejiang Provincial Semifinal of the 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition.": "El estudiante de flauta Ni Chenhan obtuvo el Premio de Oro y la puntuación más alta de su categoría en la semifinal provincial de Zhejiang de la quinta edición del Concurso Juvenil de Música de la Gran Área de la Bahía de Guangdong-Hong Kong-Macao.",
       "Angie and Mia at Macau Youth Music Competition": "Angie y Mia en el Concurso de Jóvenes Músicos de Macao",
       "Mia and Angie Won the Second Prize in the Flute Duet Category at the Vienna International Young Musicians Competition 2025": "Mia y Angie obtuvieron el segundo premio en la categoría de dúo de flautas del Concurso Internacional de Jóvenes Músicos de Viena 2025",
+      "Mia and Angie were playing in the Macau Youth Symphony Orchestra": "Mia y Angie tocando en la Orquesta Sinfónica Juvenil de Macao",
       "Bronze Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Music Festival.": "Premio de Bronce en el Festival Juvenil de Música de la Gran Área de la Bahía de Guangdong–Hong Kong–Macao.",
       "Silver Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Sound CUP.": "Premio de Plata en el Sound CUP de la Gran Área de la Bahía de Guangdong–Hong Kong–Macao.",
       "Silver Prize at the Xiaoshan Brighting the Future Instrumental Music Competition.": "Premio de Plata en el Concurso Instrumental Brighting the Future de Xiaoshan.",
@@ -1069,6 +1078,7 @@ window.WAICE_SITE_CONTENT = {
       "Flute student Ni Chenhan won the Gold Prize and achieved the highest score in the category at the Zhejiang Provincial Semifinal of the 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition.": "長笛學生倪琛涵於第五屆粵港澳大灣區青少年音樂大賽浙江省半總決賽獲得金獎，並取得該組最高分。",
       "Angie and Mia at Macau Youth Music Competition": "Angie 與 Mia 參與澳門青年音樂比賽",
       "Mia and Angie Won the Second Prize in the Flute Duet Category at the Vienna International Young Musicians Competition 2025": "Mia 與 Angie 於 2025 維也納國際青年音樂家比賽長笛二重奏組獲得第二名",
+      "Mia and Angie were playing in the Macau Youth Symphony Orchestra": "Mia 與 Angie 參與澳門青年交響樂團演出",
       "Bronze Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Music Festival.": "粵港澳大灣區青年音樂節銅獎。",
       "Silver Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Sound CUP.": "粵港澳大灣區 Sound CUP 銀獎。",
       "Silver Prize at the Xiaoshan Brighting the Future Instrumental Music Competition.": "蕭山區 Brighting the Future 器樂大賽銀獎。",
@@ -1279,6 +1289,7 @@ window.WAICE_SITE_CONTENT = {
       "Flute student Ni Chenhan won the Gold Prize and achieved the highest score in the category at the Zhejiang Provincial Semifinal of the 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition.": "长笛学生倪琛涵于第五届粤港澳大湾区青少年音乐大赛浙江省半总决赛获得金奖，并取得该组最高分。",
       "Angie and Mia at Macau Youth Music Competition": "Angie 与 Mia 参加澳门青年音乐比赛",
       "Mia and Angie Won the Second Prize in the Flute Duet Category at the Vienna International Young Musicians Competition 2025": "Mia 与 Angie 于 2025 维也纳国际青年音乐家比赛长笛二重奏组获得第二名",
+      "Mia and Angie were playing in the Macau Youth Symphony Orchestra": "Mia 与 Angie 参加澳门青年交响乐团演出",
       "Bronze Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Music Festival.": "粤港澳大湾区青年音乐节铜奖。",
       "Silver Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Sound CUP.": "粤港澳大湾区 Sound CUP 银奖。",
       "Silver Prize at the Xiaoshan Brighting the Future Instrumental Music Competition.": "萧山区 Brighting the Future 器乐大赛银奖。",
