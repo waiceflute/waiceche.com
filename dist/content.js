@@ -418,18 +418,6 @@ window.WAICE_SITE_CONTENT = {
           status: "public",
         },
         {
-          title: "Teaching Philosophy",
-          body: "Music education is not only about lessons. It is about helping students express emotion, build discipline, develop confidence, make friends and carry music into their lives with joy.",
-          imageKey: "teachingPhilosophyStudents",
-          status: "public",
-        },
-        {
-          title: "Music Promotion & Adjudication",
-          body: "WAICE previously served as Vice President of the Macau Youth Music Promotion Association.\n\nThe Macau Musicians Concert was one of the events organized by the association.\n\nShe has also served as an adjudicator for singing competitions at different music schools in Macao.",
-          imageKey: "macauMusiciansConcertSpecialPerformance",
-          status: "public",
-        },
-        {
           title: "Orchestra Experience",
           imageKey: "orchestraExperienceCostaRica",
           items: [
@@ -442,6 +430,18 @@ window.WAICE_SITE_CONTENT = {
             { period: "2000–2007", role: "Flutist of the Macao Youth Symphony Orchestra." },
             { period: "2000–2008", role: "Flutist of the Macao Youth Symphony Orchestra." },
           ],
+          status: "public",
+        },
+        {
+          title: "Teaching Philosophy",
+          body: "Music education is not only about lessons. It is about helping students express emotion, build discipline, develop confidence, make friends and carry music into their lives with joy.",
+          imageKey: "teachingPhilosophyStudents",
+          status: "public",
+        },
+        {
+          title: "Music Promotion & Adjudication",
+          body: "WAICE previously served as Vice President of the Macau Youth Music Promotion Association.\n\nThe Macau Musicians Concert was one of the events organized by the association.\n\nShe has also served as an adjudicator for singing competitions at different music schools in Macao.",
+          imageKey: "macauMusiciansConcertSpecialPerformance",
           status: "public",
         },
         {
