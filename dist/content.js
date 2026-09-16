@@ -257,6 +257,14 @@ window.WAICE_SITE_CONTENT = {
       focalPoint: "center",
       status: "public",
     },
+    angieAndMiaMacauYouthMusicCompetition: {
+      src: "./assets/students/angie-and-mia-macau-youth-music-competition.jpg",
+      alt: "Angie and Mia with their teacher at the Macau Youth Music Competition",
+      caption: "Angie and Mia at Macau Youth Music Competition",
+      ratio: "2:3",
+      focalPoint: "center",
+      status: "public",
+    },
   },
   navigation: [
     { id: "home", label: "Home", status: "public" },
@@ -458,6 +466,7 @@ window.WAICE_SITE_CONTENT = {
         {
           title: "Student Stories",
           body: "Share short stories of students who gained confidence, musical growth, international exposure or meaningful opportunities through learning.",
+          imageKey: "angieAndMiaMacauYouthMusicCompetition",
           status: "public",
         },
         {
@@ -795,6 +804,7 @@ window.WAICE_SITE_CONTENT = {
       "Student competition achievements, music academy certificates and ensemble leadership outcomes from WAICE's online teaching experience.": "Logros de los estudiantes en concursos, certificados de academias de música y resultados de liderazgo en agrupaciones obtenidos a través de la experiencia de enseñanza en línea de WAICE.",
       "Ni Chenhan - 2024 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition, Zhejiang Provincial Semifinal: Gold Prize and Highest Score in the Category": "Ni Chenhan - 5.ª edición del Concurso Juvenil de Música de la Gran Área de la Bahía de Guangdong-Hong Kong-Macao, semifinal provincial de Zhejiang: Premio de Oro y máxima puntuación de la categoría",
       "Flute student Ni Chenhan won the Gold Prize and achieved the highest score in the category at the Zhejiang Provincial Semifinal of the 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition.": "El estudiante de flauta Ni Chenhan obtuvo el Premio de Oro y la puntuación más alta de su categoría en la semifinal provincial de Zhejiang de la quinta edición del Concurso Juvenil de Música de la Gran Área de la Bahía de Guangdong-Hong Kong-Macao.",
+      "Angie and Mia at Macau Youth Music Competition": "Angie y Mia en el Concurso de Jóvenes Músicos de Macao",
       "Bronze Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Music Festival.": "Premio de Bronce en el Festival Juvenil de Música de la Gran Área de la Bahía de Guangdong–Hong Kong–Macao.",
       "Silver Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Sound CUP.": "Premio de Plata en el Sound CUP de la Gran Área de la Bahía de Guangdong–Hong Kong–Macao.",
       "Silver Prize at the Xiaoshan Brighting the Future Instrumental Music Competition.": "Premio de Plata en el Concurso Instrumental Brighting the Future de Xiaoshan.",
@@ -1046,6 +1056,7 @@ window.WAICE_SITE_CONTENT = {
       "Student competition achievements, music academy certificates and ensemble leadership outcomes from WAICE's online teaching experience.": "WAICE 線上教學經驗中的學生比賽成績、音樂學院證書及樂團領導成果。",
       "Ni Chenhan - 2024 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition, Zhejiang Provincial Semifinal: Gold Prize and Highest Score in the Category": "倪琛涵同學 — 2024年第五屆粵港澳大灣區青少年音樂大賽浙江省半總決賽：長笛組金獎及該組最高分",
       "Flute student Ni Chenhan won the Gold Prize and achieved the highest score in the category at the Zhejiang Provincial Semifinal of the 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition.": "長笛學生倪琛涵於第五屆粵港澳大灣區青少年音樂大賽浙江省半總決賽獲得金獎，並取得該組最高分。",
+      "Angie and Mia at Macau Youth Music Competition": "Angie 與 Mia 參與澳門青年音樂比賽",
       "Bronze Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Music Festival.": "粵港澳大灣區青年音樂節銅獎。",
       "Silver Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Sound CUP.": "粵港澳大灣區 Sound CUP 銀獎。",
       "Silver Prize at the Xiaoshan Brighting the Future Instrumental Music Competition.": "蕭山區 Brighting the Future 器樂大賽銀獎。",
@@ -1253,6 +1264,7 @@ window.WAICE_SITE_CONTENT = {
       "Student competition achievements, music academy certificates and ensemble leadership outcomes from WAICE's online teaching experience.": "WAICE 线上教学经验中的学生比赛成绩、音乐学院证书及乐团领导成果。",
       "Ni Chenhan - 2024 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition, Zhejiang Provincial Semifinal: Gold Prize and Highest Score in the Category": "倪琛涵同学 — 2024年第五届粤港澳大湾区青少年音乐大赛浙江省半总决赛：长笛组金奖及该组最高分",
       "Flute student Ni Chenhan won the Gold Prize and achieved the highest score in the category at the Zhejiang Provincial Semifinal of the 5th Guangdong-Hong Kong-Macao Greater Bay Area Youth Music Competition.": "长笛学生倪琛涵于第五届粤港澳大湾区青少年音乐大赛浙江省半总决赛获得金奖，并取得该组最高分。",
+      "Angie and Mia at Macau Youth Music Competition": "Angie 与 Mia 参加澳门青年音乐比赛",
       "Bronze Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Youth Music Festival.": "粤港澳大湾区青年音乐节铜奖。",
       "Silver Prize at the Guangdong–Hong Kong–Macao Greater Bay Area Sound CUP.": "粤港澳大湾区 Sound CUP 银奖。",
       "Silver Prize at the Xiaoshan Brighting the Future Instrumental Music Competition.": "萧山区 Brighting the Future 器乐大赛银奖。",
