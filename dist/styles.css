@@ -433,11 +433,21 @@ blockquote {
   aspect-ratio: 4 / 3;
 }
 
+.image-card.ratio-3-2 img {
+  aspect-ratio: 3 / 2;
+}
+
 .image-card figcaption {
   padding: 12px 14px;
   color: var(--muted);
   font-size: 12px;
   background: var(--white);
+}
+
+.section-image-stack {
+  display: grid;
+  gap: 18px;
+  align-content: start;
 }
 
 .image-placeholder {

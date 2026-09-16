@@ -192,7 +192,13 @@ function renderStandardPage(page) {
                     : ""
                 }
               </div>
-              ${imageCard(section.imageKey, section.imageRole || section.title, index % 2 ? "16:9" : "4:5")}
+              ${
+                section.imageKeys?.length
+                  ? `<div class="section-image-stack">${section.imageKeys
+                      .map((imageKey) => imageCard(imageKey, imageKey, "4:5"))
+                      .join("")}</div>`
+                  : imageCard(section.imageKey, section.imageRole || section.title, index % 2 ? "16:9" : "4:5")
+              }
             </article>
           `,
         )
