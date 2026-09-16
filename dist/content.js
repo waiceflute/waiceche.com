@@ -900,8 +900,6 @@ window.WAICE_SITE_CONTENT = {
       "School Singing Competition Award Presentation": "Entrega de premios de un concurso de canto escolar",
       "Student choir performing at a school music competition": "Coro estudiantil actuando en un concurso musical escolar",
       "School Music Competition Performance": "Actuación en un concurso musical escolar",
-      "Supporting the Founder Story": "Experiencias que respaldan la trayectoria de la fundadora",
-      "These experiences should support Waice's credibility as a founder without distracting from Music Fun 100. Glamour Model Agency and modeling achievements remain secondary evidence, not the core positioning.": "Estas experiencias deben respaldar la credibilidad de Waice como fundadora sin desviar la atención de Music Fun 100. Glamour Model Agency y los logros en modelaje son antecedentes complementarios, no el eje central de su posicionamiento.",
       "Public image / entrepreneurship archive": "Archivo de imagen pública y emprendimiento",
       "A curated source-led page for interviews, press features, guest lectures and public appearances.": "Una selección documentada de entrevistas, reportajes, conferencias invitadas y apariciones públicas.",
       "Guest Lecturer for the Etiquette Class": "Docente invitada de la clase de protocolo",
