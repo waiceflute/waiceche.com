@@ -384,6 +384,11 @@ window.WAICE_SITE_CONTENT = {
           status: "public",
         },
         {
+          title: "24 Years in Music Education",
+          body: "WAICE began her teaching career as a teenager, starting as a flute teacher at Macau's Kang Pang Middle School and private music centres. She later became a flute teacher at several well-known primary and secondary schools in Macao, building extensive teaching experience. Her students have won awards in competitions in China and abroad, and some have gone on to serve as principal musicians in orchestras and bands.",
+          status: "public",
+        },
+        {
           title: "Personal Macau Youth Music Achievements",
           imageKey: "macauYouthMusicCompetition2006",
           items: [
@@ -396,11 +401,6 @@ window.WAICE_SITE_CONTENT = {
             { period: "2006 (24th)", role: "Third Prize, Concerto." },
             { period: "2003", role: "Champion, School Band." },
           ],
-          status: "public",
-        },
-        {
-          title: "24 Years in Music Education",
-          body: "WAICE began her teaching career as a teenager, starting as a flute teacher at Macau's Kang Pang Middle School and private music centres. She later became a flute teacher at several well-known primary and secondary schools in Macao, building extensive teaching experience. Her students have won awards in competitions in China and abroad, and some have gone on to serve as principal musicians in orchestras and bands.",
           status: "public",
         },
         {
