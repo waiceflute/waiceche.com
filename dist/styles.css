@@ -444,6 +444,13 @@ blockquote {
   background: var(--white);
 }
 
+.image-caption-title {
+  display: block;
+  color: var(--ink);
+  font-weight: 600;
+  line-height: 1.45;
+}
+
 .section-image-stack {
   display: grid;
   gap: 18px;

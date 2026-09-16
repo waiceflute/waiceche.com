@@ -62,7 +62,7 @@ function imageCard(imageKey, fallbackLabel, ratio = "4:5") {
     return `
       <figure class="image-card ratio-${(image.ratio || ratio).replace(":", "-")}">
         <img src="${image.src}" alt="${t(image.alt || fallbackLabel)}">
-        <figcaption>${t(image.caption || fallbackLabel)}</figcaption>
+        <figcaption><strong class="image-caption-title">${t(image.caption || fallbackLabel)}</strong></figcaption>
       </figure>
     `;
   }
