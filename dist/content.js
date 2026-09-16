@@ -422,7 +422,6 @@ window.WAICE_SITE_CONTENT = {
       id: "students",
       status: "public",
       title: "Student Success",
-      intro: "Student achievements are presented separately from Waice's personal awards, keeping the portfolio clear, credible and respectful.",
       sections: [
         {
           title: "Competition Highlights",
@@ -765,7 +764,6 @@ window.WAICE_SITE_CONTENT = {
       "Master Class of Trevor Wye": "Clase magistral de Trevor Wye",
       "Flute Choir Performance with TIM WILSON": "Actuación de coro de flautas con TIM WILSON",
       "Flute Choir Performance with William Bennett": "Actuación de coro de flautas con William Bennett",
-      "Student achievements are presented separately from Waice's personal awards, keeping the portfolio clear, credible and respectful.": "Los logros de los estudiantes se presentan por separado de los premios personales de Waice, para mantener un portafolio claro, creíble y respetuoso.",
       "Competition Highlights": "Logros destacados en concursos",
       "First Prize at the 2025 Paris Music Competition.": "Primer premio en el 2025 Paris Music Competition.",
       "Gold Prize at the Xiaoshan Bright Qin Sounds, Performing Toward the Future Instrumental Music Competition.": "Premio de Oro en el Concurso Instrumental de Xiaoshan «Sonidos brillantes del qin, interpretando hacia el futuro».",
@@ -1032,7 +1030,6 @@ window.WAICE_SITE_CONTENT = {
       "Flute Choir Performance with TIM WILSON": "與 TIM WILSON 一同進行長笛合奏演出",
       "Flute Choir Performance with William Bennett": "與 William Bennett 一同進行長笛合奏演出",
       "WAICE previously served as Vice President of the Macau Youth Music Promotion Association.\n\nThe Macau Musicians Concert was one of the events organized by the association.\n\nShe has also served as an adjudicator for singing competitions at different music schools in Macao.": "WAICE 曾擔任澳門青年音樂推廣協會副會長。\n\n《澳門演奏家音樂會專場》是該協會舉辦的活動之一。\n\n她亦曾擔任澳門不同音樂學校歌唱比賽的評委。",
-      "Student achievements are presented separately from Waice's personal awards, keeping the portfolio clear, credible and respectful.": "學生成就會與 Waice 的個人獎項分開呈現，讓網站更清晰、可信，也更尊重學生。",
       "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)": "楊淇菁 Mia Ieong 於 2026 年第九屆李斯特匈牙利國際公開賽決賽（匈牙利埃格爾）榮獲第二名",
       "Student Individual Honour": "學生個人榮耀",
       "Global Online Learning Results": "全球線上學習成果",
@@ -1239,7 +1236,6 @@ window.WAICE_SITE_CONTENT = {
       "Flute Choir Performance with TIM WILSON": "与 TIM WILSON 一同进行长笛合奏演出",
       "Flute Choir Performance with William Bennett": "与 William Bennett 一同进行长笛合奏演出",
       "WAICE previously served as Vice President of the Macau Youth Music Promotion Association.\n\nThe Macau Musicians Concert was one of the events organized by the association.\n\nShe has also served as an adjudicator for singing competitions at different music schools in Macao.": "WAICE 曾担任澳门青年音乐推广协会副会长。\n\n《澳门演奏家音乐会专场》是该协会举办的活动之一。\n\n她亦曾担任澳门不同音乐学校歌唱比赛的评委。",
-      "Student achievements are presented separately from Waice's personal awards, keeping the portfolio clear, credible and respectful.": "学生成就会与 Waice 的个人奖项分开呈现，让网站更清晰、可信，也更尊重学生。",
       "Mia Ieong won Second Prize at the IX International Liszt Ferenc Final Round Competition 2026 (Hungary Eger)": "杨淇菁 Mia Ieong 于 2026 年第九届李斯特匈牙利国际公开赛决赛（匈牙利埃格尔）荣获第二名",
       "Student Individual Honour": "学生个人荣誉",
       "Global Online Learning Results": "全球线上学习成果",
