@@ -384,12 +384,6 @@ window.WAICE_SITE_CONTENT = {
           status: "public",
         },
         {
-          title: "Studio Recording & Session Work",
-          body: "Recorded flute parts for Macau singers' music productions and albums.",
-          imageKey: "studioRecordingMacauSingers",
-          status: "public",
-        },
-        {
           title: "Personal Macau Youth Music Achievements",
           imageKey: "macauYouthMusicCompetition2006",
           items: [
@@ -448,6 +442,12 @@ window.WAICE_SITE_CONTENT = {
             { period: "2000–2007", role: "Flutist of the Macao Youth Symphony Orchestra." },
             { period: "2000–2008", role: "Flutist of the Macao Youth Symphony Orchestra." },
           ],
+          status: "public",
+        },
+        {
+          title: "Studio Recording & Session Work",
+          body: "Recorded flute parts for Macau singers' music productions and albums.",
+          imageKey: "studioRecordingMacauSingers",
           status: "public",
         },
       ],
